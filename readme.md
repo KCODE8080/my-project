@@ -1,2 +1,2 @@
-this is the readme file created for some instructions.
-Welcome my repo.
+# This is the readme file created for some instructions.
+# Welcome my repo.
